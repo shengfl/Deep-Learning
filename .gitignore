@@ -1,0 +1,8 @@
+/.ipynb_checkpoints/
+/1.JupyterNotes/
+/images/
+/model_pkl/
+/pytorch_tb/
+/runs/
+*~
+.DS_Store
